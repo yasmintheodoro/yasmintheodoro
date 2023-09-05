@@ -9,3 +9,6 @@ My English is pretty basic, guys. I just think that write in this way looks good
 
 ### You can contact me:
 yasmin.turato.silva@escola.pr.gov.br
+
+### Links:
+[Alura] (https://cursos.alura.com.br/user/yasmin-turato-silva)
